@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ZooPark\ZooPark\bin\Debug\net6.0\ZooPark.exe
+C:\Users\User\Desktop\ZooPark\ZooPark\bin\Debug\net6.0\ZooPark.deps.json
+C:\Users\User\Desktop\ZooPark\ZooPark\bin\Debug\net6.0\ZooPark.runtimeconfig.json
+C:\Users\User\Desktop\ZooPark\ZooPark\bin\Debug\net6.0\ZooPark.dll
+C:\Users\User\Desktop\ZooPark\ZooPark\bin\Debug\net6.0\ZooPark.pdb
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.AssemblyInfo.cs
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.dll
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\refint\ZooPark.dll
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.pdb
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ZooPark.genruntimeconfig.cache
+C:\Users\User\Desktop\ZooPark\ZooPark\obj\Debug\net6.0\ref\ZooPark.dll
